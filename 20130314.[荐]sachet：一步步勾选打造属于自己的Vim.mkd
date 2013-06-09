@@ -1,0 +1,12 @@
+<![荐]sachet：一步步勾选打造属于自己的Vim>
+<!系统软件，所有博文>
+
+通过勾选特性（如：语法高亮、显示行号……）、主题和插件，[sachet](http://yoursachet.com/)会生成一个自定义话的Vim包，下载下来之后，只需简单的解压和安装，就可以在短时间内配置好一个Vim编辑器。是不是很简单，那就来试一下吧！
+
+对于Vim新手来说，[sachet](http://yoursachet.com/)是一个不错的起点；对于老鸟来说，[sachet](http://yoursachet.com/)也可供参考。
+
+**友情提醒**：如果已经有配置好的Vim工作环境，在尝试[sachet](http://yoursachet.com/)前请做好备份工作！
+
+### 扩展链接
+* [sachet](http://yoursachet.com/)
+* [好站: 一步步勾選打造屬於自己的 Vimrc](http://blog.longwin.com.tw/2013/03/favorite-vim-vimrc-setup-2013/)

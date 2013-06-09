@@ -1,0 +1,13 @@
+<![文献与课程]A first course in computing with applications to biology>
+<!生物信息，电脑编程，所有博文>
+
+**Libeskind-Hadas, R. & Bush, E. A first course in computing with applications to biology. Briefings in Bioinformatics (2013).doi:10.1093/bib/bbt005**
+
+###Abstract
+We believe that undergraduate biology students must acquire a foundational background in computing including how to formulate a computational problem; develop an algorithmic solution; implement their solution in software and then test, document and use their code to explore biological phenomena. Moreover, by learning these skills in the first year, students acquire a powerful tool set that they can use and build on throughout their studies.
+
+To address this need, we have developed a first-year undergraduate course that teaches students the foundations of computational thinking and programming in the context of problems in biology. This article describes the structure and content of the course and summarizes assessment data on both affective and learning outcomes. 
+
+###相关链接
+* 文献：[A first course in computing with applications to biology](http://bib.oxfordjournals.org/content/early/2013/02/28/bib.bbt005.full)
+* 课程：[A First Course in Computing for Biologists ](https://www.cs.hmc.edu/twiki/bin/view/CS6/CS5GreenSite)

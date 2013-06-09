@@ -1,0 +1,14 @@
+<!几个在线编译器>
+<!电脑编程，所有博文>
+
+* [compileonline](http://www.compileonline.com/): Compile and Execute your favorite programming languages online.
+
+* [Ideone](http://ideone.com/): Ideone不只是個貼貼板，更是個線上編譯器以及除錯工具，可以讓你在線上編譯、執行超過40種語言的程式碼。
+
+* [codepad](http://codepad.org/): codepad is an online compiler/interpreter, and a simple collaboration tool.
+
+* [Python Fiddle](http://pythonfiddle.com/): Python Cloud IDE.
+
+* [Rweb](http://pbil.univ-lyon1.fr/Rweb/): Rweb is a Web based interface to R (a statistical analysis package) that takes the submitted code, runs R on the code (in batch mode), and returns the output (printed and graphical).
+
+*注：欢迎朋友们提供更多相关资源。*

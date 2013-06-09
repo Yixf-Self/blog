@@ -1,0 +1,22 @@
+<![荐]Unix and Perl Primer for Biologists>
+<!生物信息，电脑编程，所有博文>
+
+We have written a basic introductory course for biologists to learn the essential aspects of the Perl programming language. This started as a course for grad students at UC Davis, and we then ran it as a one week intensive course for anyone on campus who was interested (sponsored by the UC Davis Genome Center). The feedback from these courses was very positive and so we have decided that we should make it available to anyone who is interested.
+
+The course is very much aimed at people with no prior experience in either programming or Unix. It is increasingly common that biologists have to deal with vast amounts of in silico data as part of their research, often in the form of many large text files that are the output from research equipment or computer programs. If you complete this course you will hopefully learn enough to be able to write programs to interrogate, refine, and process such data.
+
+Although this course was initially developed for biologists, we feel that it is suitable for anyone in the life sciences...you don't need to have experience with bioinformatics to use this material. In fact, the biological examples are relatively simple and so we also feel that this course would be useful for anyone who wants to learn the basics of Unix and Perl, no matter what your background.
+
+To start the course, you first need to download the course material (a set of test files and directories that relates to the documentation). You can either download the entire course (files + documentation, 38 MB compressed) or just the documentation.
+
+###扩展链接：
+
+* [官网主页](http://korflab.ucdavis.edu/unix_and_Perl/)
+
+* [PDF版](http://korflab.ucdavis.edu/Unix_and_Perl/unix_and_perl_v3.1.1.pdf)
+
+* [HTML版](http://korflab.ucdavis.edu/Unix_and_Perl/unix_and_perl_v3.1.1.html)
+
+* [Markdown版](http://korflab.ucdavis.edu/Unix_and_Perl/unix_and_perl_v3.1.1.txt)
+
+* [课程材料合集](http://korflab.ucdavis.edu/Unix_and_Perl/unix_and_perl_v3.1.1.zip)
