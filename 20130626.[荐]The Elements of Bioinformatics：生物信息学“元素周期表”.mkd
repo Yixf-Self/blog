@@ -1,0 +1,15 @@
+<![荐]The Elements of Bioinformatics：生物信息学“元素周期表”>
+<!生物信息，所有博文>
+
+[Eagle's Elements of Bioinformatics](http://elements.eaglegenomics.com/) brings together all the tools in each category of bioinformatics software so that end-users can find all the information in one place.
+
+For example, someone looking for an aligner might use the table to review the options available before making the choice most appropriate to their project. Someone already using an aligner but having problems with it might use the table to identify suitable alternatives.
+
+The original version of the table had only genomics and sequence bioinformatics tools, but we are steadily expanding it to cover other areas such as proteomics, biostatistics, metabolomics, etc. Suggestions for additional tools and categories are most welcome.
+
+The table divides all tools into categories by function and licence. The function groupings are colour-coded, and the licence groupings are represented by separation into dedicated areas. We don't list each individual licence, but instead allocate a general category of licence to each tool - completely free, free for academics only, or commercial/restricted.
+
+The categories are listed at the top. Hover over a category to highlight all tools that fall into it.
+
+Each tool can be hovered over to bring up more information including, where available, and a link to the tool's homepage (click on the two-letter abbreviation to be taken there).
+
